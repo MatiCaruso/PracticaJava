@@ -1,5 +1,5 @@
 # PracticaJavaCarrito1
-a.- Product;
+a.- Product
 b.- ProductTest
 c.- ShopCart
 d.- ShopCartTest
